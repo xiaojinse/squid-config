@@ -1,10 +1,8 @@
-# squid-config
-samples config files for Squid
-
+# Samples config files for Squid
 
 Apply the sample config files to your proxy server: /etc/squid/squid.conf
 
-# forward proxy
+## forward proxy
 
 Qiita Note:
 
@@ -12,7 +10,7 @@ SquidによるフォワードプロキシでCode Engineへのアクセスを制�
 
 https://qiita.com/egawaaa/items/79176404ba91270981a9
 
-# reserve proxy
+## reserve proxy
 
 Qiita Note:
 
